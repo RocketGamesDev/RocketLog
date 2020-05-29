@@ -1,0 +1,17 @@
+{
+  "name": "com.rocket.rocketlog",
+  "version": "1.0.0",
+  "displayName": "Rocket Log",
+  "description": "Logging for Rocket Games",
+  "unity": "2018.3",
+ "keywords": [
+    "log",
+    "rocket",
+    "logging"
+ ],
+  "author": {
+    "name": "Rocket Games",
+    "email": "info@rocket.gs",
+    "url": "https://www.rocket.gs"
+  }
+}
