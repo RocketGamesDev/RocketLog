@@ -1,6 +1,6 @@
 {
-  "name": "com.rocket.rocketlog",
-  "version": "1.0.0",
+  "name": "com.rocket.rocketlogtest",
+  "version": "1.0.5",
   "displayName": "Rocket Log",
   "description": "Logging for Rocket Games",
   "unity": "2018.3",
@@ -13,5 +13,8 @@
     "name": "Rocket Games",
     "email": "info@rocket.gs",
     "url": "https://www.rocket.gs"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
