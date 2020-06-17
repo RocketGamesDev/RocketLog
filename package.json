@@ -1,6 +1,6 @@
 {
   "name": "com.rocket.rocketlogtest",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "displayName": "Rocket Log",
   "description": "Logging for Rocket Games",
   "unity": "2018.3",
