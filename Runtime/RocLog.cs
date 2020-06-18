@@ -27,7 +27,7 @@ namespace RocketLog
 
         public DebugLevels DebugLevel;
         private string _componentName;
-		//test
+		
         public string ComponentName
         {
             get
